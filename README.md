@@ -13,3 +13,6 @@ It uses the K-Nearest Neighbors (KNN) algorithm to find the closest match among 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+## Streamlit Deploy
+Our team already deploy in https://selecta-app.streamlit.app/
