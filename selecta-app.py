@@ -140,7 +140,6 @@ def knn_predict(region: str, math: float, science: float, indo: float, raport: f
 # ================================
 # STREAMLIT UI
 # ================================
-st.title("🎓 Selecta")
 st.header("🎓 Selecta — School Recommendation System")
 st.write("Enter your ASPD scores and report card grades, then press **Get Recommendation** to see school suggestions based on KNN.")
 
